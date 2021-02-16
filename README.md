@@ -1,1 +1,1 @@
-# smarttrheo
+# smartrheo
